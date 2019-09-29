@@ -1,0 +1,2 @@
+# software_configuration_management
+配置管理脚本
